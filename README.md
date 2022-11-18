@@ -1,6 +1,6 @@
 <h1 align="center">paintingofblue</h1>
 <p align="center">
-  <img align"center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paintingofblue&layout=compact&theme=transparent">
+  <img align"center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paintingofblue&layout=compact&theme=dark">
 </p>
 
 <h2 align="center">Socials</h2>
